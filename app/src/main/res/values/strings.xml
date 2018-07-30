@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P11_Know Your National Day</string>
+    <string name="quiz">Quiz</string>
+    <string name="send_to_friends">Send to Friends</string>
+    <string name="quit">Quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question">Question</string>
+    <string name="access_code">Access Code</string>
+    <string name="please_login">Please Login</string>
+    <string name="_738964">738964</string>
+</resources>
